@@ -1,7 +1,8 @@
 /* High level containers */
 body 
 { 
-  color: black;
+    background: black;
+  color: white;
   
   font: normal 12px verdana, arial, helvetica, sans-serif;
   line-height: 1.5;
