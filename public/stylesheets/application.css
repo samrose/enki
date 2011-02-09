@@ -9,6 +9,21 @@ body
   padding: 0px;
   margin: 0px;
 }
+div {
+    height: 100px;
+    width: 100px;
+    border: 3px solid #49A0AD;
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -moz-transition: background-color 0.2s linear;  
+    padding: 10px;
+}
+div:hover {
+    background-color: #49A0AD;
+    border: 3px solid #DDFCFC;
+    box-shadow: 0px 0px 20px #6CE9F0; 
+    -moz-box-shadow: 0px 0px 20px #6CE9F0;
+}
 
 #page_container
 {
