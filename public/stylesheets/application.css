@@ -3,16 +3,15 @@ body
 { 
     background: black;
 }
-#page_container
+#post
 {
-    height: 100px;
     border: 3px solid #49A0AD;
     border-radius: 20px;
     -moz-border-radius: 20px;
     -moz-transition: background-color 0.2s linear;  
     padding: 10px;
 }
-#page_container:hover {
+#post:hover {
     background-color: #49A0AD;
     border: 3px solid #DDFCFC;
     box-shadow: 0px 0px 20px #6CE9F0; 
