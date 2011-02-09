@@ -10,7 +10,7 @@ body
     -moz-border-radius: 20px;
     -moz-transition: background-color 0.2s linear;  
     padding: 10px;
-    margin: 10px;
+    margin: 20px;
 }
 .post:hover {
 /*
