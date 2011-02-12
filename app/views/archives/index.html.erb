@@ -1,6 +1,7 @@
 <% content_for(:page_title) do %><%= archives_title %><% end -%>
-<h2>Archives</h2>
 
+<div id="archives">
+<h2>Archives</h2>
 <% if @months.empty? -%>
 	<p>Once posts are added they will start to appear in this archive.</p>
 <% else -%>
@@ -13,5 +14,5 @@
 	  <% end -%>
 	</ul>
 	<% end -%>
-
 <% end -%>
+</div>
