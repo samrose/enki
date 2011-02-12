@@ -91,7 +91,7 @@ h1#header a
     -moz-border-radius: 20px;
     -moz-transition: background-color 0.2s linear;  
     padding: 10px;
-    margin: 20px;
+    margin: 0px;
     background-color: black;
     opacity: 0.9;
 
