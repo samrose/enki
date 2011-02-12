@@ -83,6 +83,7 @@ body
 /* Headings */
 h1#header a
 {
+    font-family: Gruppo, Helvetica, Arial, sans-serif;
   font-size: 24pt;
   color: #49A0AD;
 }
