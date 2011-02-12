@@ -1,8 +1,7 @@
 /* tron css */
 body 
 { 
-    background: black;
-    background-image:url('http://flows.panarchy.com/_test/tron010.jpg');
+    background: #000000 url('http://flows.panarchy.com/_test/tron010.jpg') no-repeat left top;
 }
 h1{
   color: white;
