@@ -82,7 +82,7 @@ body
 }
 
 /* Headings */
-h1#page_heading a
+h1#header a
 {
   font-size: 24pt;
   color: #49A0AD;
