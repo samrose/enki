@@ -90,8 +90,8 @@ h1#header a
     border-radius: 20px;
     -moz-border-radius: 20px;
     -moz-transition: background-color 0.2s linear;  
-    padding: 10px;
-    margin: 0px;
+    padding: 4px;
+    margin-left: 16px;
     background-color: black;
     opacity: 0.9;
 
