@@ -6,17 +6,6 @@ body
 h1{
   color: white;
 }
-#main
-{
-    border: 3px solid #49A0AD;
-    border-radius: 20px;
-    -moz-border-radius: 20px;
-    -moz-transition: background-color 0.2s linear;  
-    padding: 10px;
-    margin: 20px;
-    background-color: black;
-    opacity: 0.9;
-}
 .post
 {
     border: 3px solid #49A0AD;
