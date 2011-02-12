@@ -2,6 +2,7 @@
 body 
 { 
     background: #000000 url('http://flows.panarchy.com/_test/tron010.jpg') no-repeat left top;
+    background-attachment: fixed;
 }
 h1{
   color: white;
