@@ -271,16 +271,17 @@ img
   margin-top: 0px;
   list-style: none;
 }
+
+#navigation_1 ul li.no-margin 
+{
+ margin-bottom: 0px	;
+}
   
 #navigation_1 ul li
 {
   padding-left: 0px;
   margin-left: 0px;
   margin-bottom: 10px;
-}
-li.no-margin 
-{
- margin-bottom: 0px;
 }
 #navigation_1 h3
 {
