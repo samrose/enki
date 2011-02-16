@@ -140,7 +140,7 @@ a
   text-decoration: none;    
 }
   
-a
+a.nav-link
 {
   font: bold 22px Gruppo, helvetica, arial,sans-serif;
   color: #999999;
