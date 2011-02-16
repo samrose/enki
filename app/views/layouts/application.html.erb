@@ -20,12 +20,10 @@
         <%= yield %>
       </div>
       <div id="navigation">
-        <h2>Pages</h2>
         <ul>
-          <% page_links_for_navigation.each do |link| -%>
-            <li><%= link_to(link.name, link.url) %></li>
-          <% end -%>
-        </ul>
+<li><a href="http://futureforwardinstitute.com">FFI Home</a></li>
+<li><a href="<%= root_url %>archives">Blog archive</a></li>
+       </ul>
         <% unless category_links_for_navigation.empty? -%>
           <h2>Categories</h2>
           <ul>
