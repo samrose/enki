@@ -174,7 +174,7 @@ img
 {
   position: absolute;
   /* width: 15em; */
-  top: 70px; 
+  top: 240px; 
   right: -1px;
   font: normal 22px Gruppo, helvetica, arial,sans-serif;
   border: 3px solid #49A0AD;
@@ -229,6 +229,70 @@ img
 }
 
 #navigation form
+{
+  margin-bottom: 1em;
+  width: 160px;
+}
+
+#navigation_1 
+{
+  position: absolute;
+  /* width: 15em; */
+  top: 114px; 
+  right: -1px;
+  font: normal 22px Gruppo, helvetica, arial,sans-serif;
+  border: 3px solid #49A0AD;
+  border-radius: 20px;
+  -moz-border-radius: 20px;
+  -moz-transition: background-color 0.2s linear;  
+  padding: 10px;
+  margin: 0px;
+  background-color: black;
+  opacity: 0.8;
+}
+
+#navigation_1 h2
+{
+  display: inline;
+}
+
+
+#navigation_1 label
+{
+  margin-left: 0;
+  font-style: normal;
+}
+
+#navigation_1 ul
+{
+  padding-left: 10px;
+  
+  margin-left: 0px;
+  margin-top: 0px;
+  list-style: none;
+}
+  
+#navigation_1 ul li
+{
+  padding-left: 0px;
+  margin-left: 0px;
+}
+
+#navigation_1 h3
+{
+  font-size: 1.2em;
+  font-weight: bold;
+  font-family: verdana,arial,helvetica,sans-serif;
+}
+
+#navigation_1 input
+{
+  border: solid 1px black;
+  width: 100%;
+	margin-left: 5px;
+}
+
+#navigation_1 form
 {
   margin-bottom: 1em;
   width: 160px;
