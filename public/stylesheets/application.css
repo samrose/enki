@@ -140,6 +140,14 @@ a
   text-decoration: none;    
 }
   
+a
+{
+  font: bold 22px Gruppo, helvetica, arial,sans-serif;
+  color: #999999;
+  text-decoration: none;    
+
+
+}
 small a, label a
 {
   text-decoration: underline;
