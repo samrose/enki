@@ -174,7 +174,7 @@ img
 {
   position: absolute;
   /* width: 15em; */
-  top: 214px; 
+  top: 226px; 
   right: -1px;
   font: normal 22px Gruppo, helvetica, arial,sans-serif;
   border: 3px solid #49A0AD;
@@ -276,6 +276,7 @@ img
 {
   padding-left: 0px;
   margin-left: 0px;
+  margin-bottom: 10px;
 }
 
 #navigation_1 h3
