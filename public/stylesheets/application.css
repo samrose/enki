@@ -463,9 +463,11 @@ hr
 }
 
 .related {
-  background-color: #f8f8f8;
-  border: 1px solid silver;
-  padding: 10px;
+    background-color: black;
+    border: 3px solid #49A0AD;
+    margin: 0;
+    opacity: 0.8;
+    padding: 10px;
 }
 
 /* Syntax */
