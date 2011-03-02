@@ -1,7 +1,8 @@
 /* tron css */
 body 
 { 
-    background: #000000 url('/images/Fractal_6.jpg') no-repeat left top xpos:-500px ypos:-300px;
+    background: #000000 url('/images/Fractal_6.jpg') no-repeat -500px -300px;
+	
     /* http://en.gentoo-wiki.com/wiki/File:Fractal_6.jpg  for by-nc-sa attribution*/
     background-attachment: fixed;
 }
