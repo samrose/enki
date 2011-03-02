@@ -1,7 +1,7 @@
 /* tron css */
 body 
 { 
-    background: #000000 url('http://en.gentoo-wiki.com/w/images/0/00/Fractal_6.jpg') no-repeat left top;
+    background: #000000 url('/images/Fractal_6.jpg') no-repeat left top;
     /* http://en.gentoo-wiki.com/wiki/File:Fractal_6.jpg  for by-nc-sa attribution*/
     background-attachment: fixed;
 }
