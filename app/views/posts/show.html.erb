@@ -6,7 +6,6 @@
 <%= post_title(@post) -%>
 <% end -%>
 <%= render :partial => 'posts/post', :locals => {:post => @post} %>
-<div class="related">Looking for more? Head on over to the <%= link_to("archives", archives_path) %>.</div>
 <div class="comments">
 <h2>Post a comment</h2>
 <div>
