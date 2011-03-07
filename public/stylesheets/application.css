@@ -2,12 +2,8 @@
 body 
 { 
     background: #000000 url('/images/Fractal_6.jpg') no-repeat -350px -100px;
-	
     /* http://en.gentoo-wiki.com/wiki/File:Fractal_6.jpg  for by-nc-sa attribution*/
     background-attachment: fixed;
-}
-h1{
-  color: red;
 }
 .post
 {
