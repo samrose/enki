@@ -125,7 +125,7 @@ body
 }
 
 /* Headings */
-div#header
+#header
 {
 	width: 900px;
 	height: 100px;
@@ -141,10 +141,9 @@ div#header
     background-color: black;
     opacity: 0.9;
 }
-h1#header a
+#header a
 {
     text-decoration: none;
-
 }
 
 h2
