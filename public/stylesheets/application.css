@@ -76,12 +76,11 @@ body
 .dsq-reply
 {
     padding: 20px 0 20px 0;
-    border-bottom: 1px solid red;
-    border-top: 1px solid red;
 }
-#dsq-subscribe
+#footer
 {
-    border-top: 1px solid red;
+    width: 600px;
+    margin-left: 40px;
 }
 .dsq-textarea dsq-textarea-reply
 {
