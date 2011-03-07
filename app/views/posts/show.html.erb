@@ -6,7 +6,7 @@
 <%= post_title(@post) -%>
 <% end -%>
 <%= render :partial => 'posts/post', :locals => {:post => @post} %>
-<div class="comments">
+<div class="comments_thread">
 <h2>Post a comment</h2>
 <div>
 <%= raw(disqus_thread) %>

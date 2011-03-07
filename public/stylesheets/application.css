@@ -41,7 +41,7 @@ body
     background-color: #111111;
     opacity: 0.9;
 }
-.comments
+.comments_thread
 {
     border: 3px solid #49A0AD;
     border-radius: 20px;
@@ -52,7 +52,7 @@ body
     background-color: black;
     opacity: 0.9;
 }
-.comments:hover {
+.comments_thread:hover {
     border: 3px solid #DDFCFC;
     box-shadow: 0px 0px 20px #6CE9F0; 
     -moz-box-shadow: 0px 0px 20px #6CE9F0;
@@ -72,6 +72,10 @@ body
 }
 .dsq-avatar
 {
+}
+.dsq-reply
+{
+    margin: 20px 0 20px 0;
 }
 .dsq-textarea dsq-textarea-reply
 {
