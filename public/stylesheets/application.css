@@ -211,7 +211,7 @@ img
   /* width: 15em; */
   top: 226px; 
   right: -1px;
-  font: normal 22px Gruppo, helvetica, arial,sans-serif;
+  font: normal 18px Gruppo, helvetica, arial,sans-serif;
   border: 3px solid #49A0AD;
   border-radius: 20px;
   -moz-border-radius: 20px;
@@ -221,122 +221,57 @@ img
   background-color: black;
   opacity: 0.8;
 }
-
+#navigation a:active, a:link, a:hover, a:visited
+{
+    color: #49A0AD;
+    text-decoration: none;
+}
 #navigation h2
 {
   display: inline;
+    color: #49A0AD;
 }
-
-
 #navigation label
 {
   margin-left: 0;
   font-style: normal;
 }
-
 #navigation ul
 {
   padding-left: 10px;
-  
   margin-left: 0px;
   margin-top: 0px;
   list-style: none;
 }
-  
 #navigation ul li
 {
   padding-left: 0px;
   margin-left: 0px;
+    color: #49A0AD;
 }
-
 #navigation h3
 {
   font-size: 1.2em;
   font-weight: bold;
   font-family: verdana,arial,helvetica,sans-serif;
+    color: #49A0AD;
 }
-
-#navigation input
-{
-  border: solid 1px black;
-  width: 100%;
-	margin-left: 5px;
-}
-
 #navigation form
 {
   margin-bottom: 1em;
   width: 160px;
 }
-
-#navigation_1 
-{
-  position: absolute;
-  /* width: 15em; */
-  top: 70px; 
-  right: -1px;
-  font: normal Gruppo, helvetica, arial,sans-serif;
-  border: 3px solid #49A0AD;
-  border-radius: 20px;
-  -moz-border-radius: 20px;
-  -moz-transition: background-color 0.2s linear;  
-  padding: 24px;
-  margin: 0px;
-  background-color: black;
-  opacity: 0.8;
-}
-
-#navigation_1 h2
-{
-  display: inline;
-}
-
-
-#navigation_1 label
-{
-  margin-left: 0;
-  font-style: normal;
-}
-
-#navigation_1 ul
-{
-  padding-left: 10px;
-  
-  margin-left: 0px;
-  margin-top: 0px;
-  list-style: none;
-}
-
-#navigation_1 ul li.no-margin 
-{
- margin-bottom: 0px	;
-}
-  
-#navigation_1 ul li
-{
-  padding-left: 0px;
-  margin-left: 0px;
-  margin-bottom: 10px;
-  margin-top: 10px;
-}
-#navigation_1 h3
-{
-  font-size: 1.2em;
-  font-weight: bold;
-  font-family: verdana,arial,helvetica,sans-serif;
-}
-
-#navigation_1 input
-{
-  border: solid 1px black;
-  width: 100%;
-	margin-left: 5px;
-}
-
-#navigation_1 form
-{
-  margin-bottom: 1em;
-  width: 160px;
+#sform input[type="text"] {
+    width: 100%;
+    background: none repeat scroll 0 0 #050505;
+    font-size: 14px;
+    height: 20px;
+    padding: 2px;
+    -moz-border-radius: 6px 6px 6px 6px;
+    background-color: #000000;
+    background-image: -moz-linear-gradient(center top , #002F3D 0%, #000000 40%);
+    border: 1px solid #49A0AD;
+    color: #49A0AD;
 }
 
 #main 
