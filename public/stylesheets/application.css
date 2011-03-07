@@ -75,7 +75,9 @@ body
 }
 .dsq-reply
 {
-    margin: 20px 0 20px 0;
+    padding: 20px 0 20px 0;
+    border-bottom: 1px solid red;
+    border-top: 1px solid red;
 }
 .dsq-textarea dsq-textarea-reply
 {
