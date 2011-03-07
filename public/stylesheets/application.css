@@ -77,9 +77,14 @@ body
 {
     padding: 20px 0 20px 0;
 }
+#sticky
+{
+    width: 650px;
+    margin-left: 40px;
+}
 #footer
 {
-    width: 600px;
+    width: 650px;
     margin-left: 40px;
 }
 .dsq-textarea dsq-textarea-reply
