@@ -125,11 +125,13 @@ body
 }
 
 /* Headings */
-h1#header a
+div#header
 {
+	width: 900px;
+	height: 100px;
     font-family: Gruppo, Helvetica, Arial, sans-serif;
-  font-size: 24pt;
-  color: #49A0AD;
+    font-size: 24pt;
+    color: #49A0AD;
     border: 3px solid #49A0AD;
     border-radius: 20px;
     -moz-border-radius: 20px;
@@ -138,6 +140,9 @@ h1#header a
     margin-left: 16px;
     background-color: black;
     opacity: 0.9;
+}
+h1#header a
+{
     text-decoration: none;
 
 }
