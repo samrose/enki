@@ -28,13 +28,12 @@ While we have many plans for this blog and the FFI website, this is not say we e
       <div id="main">
         <%= yield %>
       </div>
-     <div id="navigation_1">
-        <ul>
-<li><a class="nav-link" href="http://futureforwardinstitute.com">FFI Home</a></li>
-<li class="no-margin"><a class="nav-link" href="<%= root_url %>archives">Blog archive</a></li>
-       </ul>
-	</div>
-      <div id="navigation">
+     <div id="navigation">
+          <h2>Links</h2>
+     <ul>
+        <li><a class="nav-link" href="http://futureforwardinstitute.com">FFI</a></li>
+        <li class="no-margin"><a class="nav-link" href="<%= root_url %>archives">Blog archive</a></li>
+     </ul>
         <% unless category_links_for_navigation.empty? -%>
           <h2>Categories</h2>
           <ul>
