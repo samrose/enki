@@ -70,13 +70,6 @@ body
     background-color: black;
     opacity: 0.9;
 }
-.dsq-avatar
-{
-}
-.dsq-reply
-{
-    padding: 20px 0 20px 0;
-}
 #sticky
 {
     width: 650px;
@@ -127,23 +120,16 @@ body
 /* Headings */
 #header
 {
-	width: 900px;
-	height: 100px;
+	width: 650px;
+    margin-left: 40px;
     font-family: Gruppo, Helvetica, Arial, sans-serif;
     font-size: 24pt;
     color: #49A0AD;
-    border: 3px solid #49A0AD;
-    border-radius: 20px;
-    -moz-border-radius: 20px;
-    -moz-transition: background-color 0.2s linear;  
-    padding: 4px 10px 4px 10px;
-    margin-left: 16px;
-    background-color: black;
-    opacity: 0.9;
 }
 #header a
 {
     text-decoration: none;
+    font-weight: bold;
 }
 
 h2
