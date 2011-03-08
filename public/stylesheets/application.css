@@ -221,11 +221,15 @@ img
   background-color: black;
   opacity: 0.8;
 }
-#navigation a:active, a:link, a:hover, a:visited
+#navigation a:active, a:link, a:visited
 {
     color: #49A0AD;
     text-decoration: none;
     font-weight: normal;
+}
+#navigation a:hover
+{
+   color: #DDFCFC; 
 }
 #navigation h2
 {
